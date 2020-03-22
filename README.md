@@ -2,7 +2,7 @@
 ## An app that helps users keep track of their finances even offline
 
 ## Deployed App:
-[link to heroku app](http://stark-harbor-63201.herokuapp.com/)
+[deployed on heroku](http://stark-harbor-63201.herokuapp.com/)
 
 ## User Story
 AS AN avid traveller
